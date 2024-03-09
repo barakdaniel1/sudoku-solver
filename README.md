@@ -1,6 +1,6 @@
 # Sudoku Solver - Computer Vision
 
-This project identifies the sudoku board, solves the sudoku, and returns the solution to the user.
+This project identifies the sudoku board within the input image, solves the sudoku, and returns the solution to the user.
 
 ## Run
 
